@@ -1,8 +1,8 @@
 // =======Options START=======
 var authConfig = {
   version: "v1.0.1",
-  github_name: "SamirJanaOfficial",
-  github_repo: "ultimate-index",
+  github_name: "tamilvetri",
+  github_repo: "proxy",
   favicon: "https://raw.githubusercontent.com/SamirJanaOfficial/jscdn/main/samir.ico",
   client_id: "client_id",
   client_secret: "client_id",
