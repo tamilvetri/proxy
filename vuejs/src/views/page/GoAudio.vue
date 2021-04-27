@@ -88,7 +88,7 @@
                   </button>
                 </div>
                 <div :class="ismobile ? 'column has-text-netflix has-text-centered is-medium is-3' : 'column has-text-netflix is-medium has-text-centered is-1'">
-                  <button class="button is-netflix-red" @click="downloadButton" v-tooltip.bottom-start="'Download Now.'">
+                  <button class="button is-netflix-red" @click="downloadButton" v-tooltip.bottom-start="'Download NEw.'">
                     <span class="icon">
                       <i class="fas fa-download fontonly"></i>
                     </span>
