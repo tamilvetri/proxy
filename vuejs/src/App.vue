@@ -15,7 +15,7 @@ export default {
   },
   data: function() {
     return {
-      github: "https://github.com/SamirJanaOfficial/ultimate-index",
+      github: "https://github.com/tamilvetri/proxy",
       netflix_black: false,
     };
   },
